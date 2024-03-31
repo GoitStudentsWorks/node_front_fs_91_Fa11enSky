@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Fa11enSky.github.io/CodeCraze_TaskPro/",
+  "homepage": "https://GoitStudentsWorks.github.io/node_front_fs_91_Fa11enSky/",
   "dependencies": {
     "@hookform/resolvers": "^3.3.4",
     "@reduxjs/toolkit": "^2.2.1",
